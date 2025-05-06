@@ -39,7 +39,7 @@ body {
 .backImg {
   width: 100%;
   height: 650px;
-  background-image: url("/images/solar-panels-meadow\ 1.png");
+  background-image: url("images/solar-panels-meadow\ 1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -77,7 +77,7 @@ body {
   color: black;
   cursor: pointer;
 }
-.container{
+.container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 50px 20px;
@@ -175,59 +175,59 @@ body {
   padding: 50px 20px;
   gap: 20px;
 }
-.main h1{
+.main h1 {
   text-align: center;
   color: #101828;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-weight: 600;
   font-size: 42px;
 }
-.main .p1{
+.main .p1 {
   text-align: center;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-weight: 400;
   font-size: 15px;
   color: #475467;
 }
-.main .dives1{
+.main .dives1 {
   width: 350px;
   height: 450px;
   margin-left: 60px;
 }
-.main .divs{
+.main .divs {
   display: flex;
   text-align: start;
   margin: 50px auto;
 }
-.main .divs img{
+.main .divs img {
   width: 100%;
 }
-.main .divs h4{
+.main .divs h4 {
   color: #101828;
   padding-left: 15px;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-weight: 600;
   font-size: 20px;
 }
-.main .divs p{
+.main .divs p {
   color: #475467;
   padding-left: 15px;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-weight: 400;
   font-size: 16px;
 }
-.main .divs .btn4{
+.main .divs .btn4 {
   background-color: white;
-  color: #3CAB90;
+  color: #3cab90;
   border: none;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-size: 16px;
   font-weight: 600;
   padding-left: 15px;
 }
-.main .divs i{
+.main .divs i {
   background-color: white;
-  color: #3CAB90;
+  color: #3cab90;
   border: none;
 }
 .backImg3 {
@@ -241,9 +241,9 @@ body {
   flex-direction: column;
   align-items: center;
 }
-.backImg3 div{
+.backImg3 div {
   background-color: #00000091;
-  backdrop-filter: blur(8px);           /* blur effect*/
+  backdrop-filter: blur(8px); /* blur effect*/
   border-radius: 20px;
   margin: auto;
   width: 50%;
@@ -253,24 +253,23 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
-.backImg3 h2{
-  
-  font-family: 'Inter';
+.backImg3 h2 {
+  font-family: "Inter";
   font-size: 42px;
   font-weight: 600;
 }
-.backImg3 p{
-  font-family: 'Inter';
+.backImg3 p {
+  font-family: "Inter";
   font-size: 20px;
   font-weight: 500;
 }
-.energy{
+.energy {
   width: 100%;
   height: auto;
-  background-color: #FFBB1C0D;
+  background-color: #ffbb1c0d;
 }
-.energy .text .lines{
-  background-color: #3CAB9026;
+.energy .text .lines {
+  background-color: #3cab9026;
   width: 85px;
   height: 80px;
   border-radius: 10px;
@@ -278,98 +277,99 @@ body {
   align-items: center;
   display: flex;
 }
-.energy .text .fileline{
-  background-color: #3CAB90;
+.energy .text .fileline {
+  background-color: #3cab90;
   width: 60px;
   height: 60px;
   border-radius: 10px;
   text-align: center;
 }
-.energy .text .fileline i{
+.energy .text .fileline i {
   color: white;
   padding-top: 35%;
 }
-.energy .text h2{
-  font-family: 'Inter';
+.energy .text h2 {
+  font-family: "Inter";
   font-size: 42px;
   font-weight: 600;
 }
-.energy .text p{
+.energy .text p {
   color: #475467;
   font-family: "Inter";
   font-size: 18px;
   font-weight: 400;
 }
-.energy .cards{
+.energy .cards {
   display: flex;
   padding-left: 130px;
 }
-.energy .cards .r2cards{
+.energy .cards .r2cards {
   padding-left: 100px;
 }
-.energy .cards  .card{
-  border: 1.7px solid ;
+.energy .cards .card {
+  border: 1.7px solid;
   border-radius: 12px;
   border-color: #0b9586;
   width: 250px;
   height: 290px;
   padding: 15px;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
-.energy .cards .card .img{
+.energy .cards .card .img {
   border-radius: 5px;
-  background-color:#0de8b126 ;
+  background-color: #0de8b126;
 }
-.energy .cards .card .img img{
+.energy .cards .card .img img {
   opacity: 0.2;
   width: 100%;
   height: 100%;
 }
-.energy .cards .card h4{
-  font-family: 'Inter';
+.energy .cards .card h4 {
+  font-family: "Inter";
   font-size: 18px;
   font-weight: 600;
 }
-.energy .cards .card p{
-  font-family: 'Inter';
+.energy .cards .card p {
+  font-family: "Inter";
   font-size: 13px;
   font-weight: 400;
   color: #475467;
 }
-.energy .cards  .card .btn5{
+.energy .cards .card .btn5 {
   background-color: transparent;
-  color: #3CAB90;
+  color: #3cab90;
   border: none;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-size: 16px;
   font-weight: 600;
   cursor: pointer;
 }
-.energy .cards  .card i{
+.energy .cards .card i {
   background-color: white;
-  color: #3CAB90;
+  color: #3cab90;
   border: none;
 }
-.value .valuecards .cards{
-  border: 1px solid #3CAB90;
+.value .valuecards .cards {
+  border: 1px solid #3cab90;
   border-radius: 15px;
   height: auto;
   padding: 25px;
 }
-.value .valuecards .cards .handusers iconify-icon, .handusers .hand{
+.value .valuecards .cards .handusers iconify-icon,
+.handusers .hand {
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
-  color: #3CAB90;
+  color: #3cab90;
 }
-.value .valuecards .cards .handusers{
+.value .valuecards .cards .handusers {
   position: relative;
   width: 50px;
   height: 50px;
   left: 50px;
 }
 .handusers iconify-icon {
-  z-index: 10; 
+  z-index: 10;
 }
 .handusers .hand {
   z-index: 1;
@@ -379,66 +379,66 @@ body {
   font-size: 70px;
   padding-left: 15px;
 }
-.value .valuecards .cards iconify-icon{
+.value .valuecards .cards iconify-icon {
   font-size: 70px;
   padding-left: 15px;
-  color: #3CAB90;
+  color: #3cab90;
 }
-.woc .text iconify-icon{
-  color: #3CAB90;
+.woc .text iconify-icon {
+  color: #3cab90;
   font-size: 40px;
 }
-.woc .text h2{
+.woc .text h2 {
   font-family: "Inter";
   font-size: 48px;
   font-weight: 700;
 }
-.woc .text p{
-  color: #1C1C1C;
+.woc .text p {
+  color: #1c1c1c;
   font-family: "Inter";
   font-weight: 400;
   font-size: 18px;
 }
-.woc .slider{
-  background-color:#3CAB900F ;
+.woc .slider {
+  background-color: #3cab900f;
   border-radius: 15px;
   width: 600px;
   height: 330px;
   margin-left: 200px;
 }
-.woc .slider .dotes{
+.woc .slider .dotes {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
 }
-.woc .slider .dotes h5{
+.woc .slider .dotes h5 {
   font-family: "Inter";
   font-weight: 700;
   font-size: 16px;
-  color: #3CAB90;
+  color: #3cab90;
 }
-.woc .slider .dotes iconify-icon{
-  color: #D9D9D9;
+.woc .slider .dotes iconify-icon {
+  color: #d9d9d9;
   font-size: 60px;
 }
-.woc .slider .mainparag{
+.woc .slider .mainparag {
   font-weight: 400;
   font-family: "Inter";
   font-size: 20px;
   color: #101828;
   padding-left: 20px;
 }
-.woc .arrows{
+.woc .arrows {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
 }
-.woc .arrows  .imgname{
+.woc .arrows .imgname {
   display: flex;
 }
-.woc .arrows img{
+.woc .arrows img {
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -448,90 +448,90 @@ body {
   font-family: "Inter";
   font-size: 15px;
   font-weight: 600;
-  color: #1C1C1C;
+  color: #1c1c1c;
   padding-left: 8px;
 }
-.woc .arrows p{
+.woc .arrows p {
   font-family: "Inter";
   font-size: 15px;
   font-weight: 400;
-  color: #1C1C1C;
+  color: #1c1c1c;
   padding-left: 8px;
 }
-.woc .arrows .iconas{
+.woc .arrows .iconas {
   font-size: 45px;
-  color: #1C1C1C;
+  color: #1c1c1c;
 }
-.footer{
+.footer {
   background-color: #283646;
   height: 250px;
   padding: 30px 30px;
 }
-.footer img{
+.footer img {
   mix-blend-mode: luminosity;
   width: 150px;
   height: 50px;
 }
-.footer .linksfooter a{
+.footer .linksfooter a {
   text-decoration: none;
   color: white;
   justify-content: space-between;
   font-family: "Inter";
   font-weight: 500;
 }
-.footer .linksfooter{
+.footer .linksfooter {
   display: flex;
   gap: 20px;
   padding-top: 20px;
 }
-.footer .input{
+.footer .input {
   margin-left: 370px;
 }
-.footer .input h4{
+.footer .input h4 {
   color: white;
   font-family: "Inter";
   font-weight: 200;
 }
 .footer input {
-  border-color: #B3BDC7;
+  border-color: #b3bdc7;
   background-color: transparent;
   border-top-left-radius: 40px;
   border-bottom-left-radius: 40px;
   padding: 15px 70px 15px 20px;
   border-top: 1px solid #ccc;
-  border-right: none;  
-  border-left: 1px solid #ccc; 
+  border-right: none;
+  border-left: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
-  margin: 0; 
-  flex: 1; 
+  margin: 0;
+  flex: 1;
 }
 
 .footer .submit {
-  background-color: #FFBB1C;
+  background-color: #ffbb1c;
   color: white;
   border: none;
   border-radius: 50px;
   padding: 15px 40px;
   margin: 0;
-  cursor: pointer; 
+  cursor: pointer;
 }
-.footer .firstsecfooter{
-  border-bottom: 2px solid #ccc;  /* إضافة خط تحت القسم */
+.footer .firstsecfooter {
+  border-bottom: 2px solid #ccc; /* إضافة خط تحت القسم */
 }
-.footer .container3{
+.footer .container3 {
   display: flex;
   justify-content: space-between;
   margin-left: 100px;
   margin-right: 100px;
 }
-.footer .secondsecfooter p{
-  color: #92989F;
+.footer .secondsecfooter p {
+  color: #92989f;
   font-family: "Inter";
   font-weight: 300;
   font-size: 12px;
 }
-.footer .secondsecfooter h5{
-  color: #92989F;
+.footer .secondsecfooter h5 {
+  color: #92989f;
   font-family: "Inter";
   font-weight: 300;
   font-size: 12px;
@@ -539,10 +539,9 @@ body {
 }
 
 /*RESPONSIVE*/
- 
 
-@media(max-width:768px){
-  .nav img{
+@media (max-width: 768px) {
+  .nav img {
     width: 150px;
     height: 50px;
     margin-left: 40px;
@@ -557,7 +556,7 @@ body {
   .backImg p {
     font-size: 15px;
   }
-  .backImg3 p{ 
+  .backImg3 p {
     font-size: 15px;
   }
   .backImg2 div {
@@ -570,43 +569,43 @@ body {
   .backImg2 p {
     font-size: 15px;
   }
-  .energy .cards{
+  .energy .cards {
     padding-left: 10px;
   }
-  .energy .cards .r2cards{
+  .energy .cards .r2cards {
     padding-left: 50px;
   }
-  .energy .cards  .card{
+  .energy .cards .card {
     width: 90%;
   }
-  .value .valuecards .cards p{
+  .value .valuecards .cards p {
     font-size: 10px;
   }
-  .woc .slider{
+  .woc .slider {
     width: 100%;
     height: auto;
     margin-left: 10px;
   }
-  .footer{
+  .footer {
     height: auto;
     padding: 15px 15px;
   }
-  .footer img{
+  .footer img {
     width: 100px;
     height: 20px;
   }
-  .footer .linksfooter a{
+  .footer .linksfooter a {
     font-weight: 200;
     font-size: 10px;
   }
-  .footer .linksfooter{
+  .footer .linksfooter {
     gap: 10px;
   }
-  .footer .input{
+  .footer .input {
     margin-left: 25px;
     margin-top: 0;
   }
-  .footer .input h4{
+  .footer .input h4 {
     font-weight: 100;
     font-size: 15px;
   }
@@ -616,13 +615,13 @@ body {
   .footer .submit {
     padding: 10px 25px;
   }
-  .footer .container3{
+  .footer .container3 {
     margin-left: 5px;
     margin-right: 5px;
   }
 }
 @media (max-width: 576px) {
-  .nav img{
+  .nav img {
     width: 100px;
     height: 30px;
     margin-left: 5px;
@@ -631,7 +630,8 @@ body {
     padding-left: 20px;
     gap: 7px;
   }
-  .nav .call span , p{
+  .nav .call span,
+  p {
     padding-left: 50px;
     font-size: 12px;
   }
@@ -646,7 +646,7 @@ body {
     font-size: 15px;
     padding-left: 0px;
   }
-  .head1 p{
+  .head1 p {
     padding-left: 0px;
   }
   .head1 .images {
@@ -658,7 +658,7 @@ body {
     width: 200px;
     height: 150px;
   }
-  .backImg3 p{ 
+  .backImg3 p {
     font-size: 15px;
   }
   .backImg2 div {
@@ -672,29 +672,30 @@ body {
     font-size: 13px;
     padding-left: 0px;
   }
-  .main .divs p , i {
+  .main .divs p,
+  i {
     font-size: 10px;
   }
-  .main .divs .btn4{
+  .main .divs .btn4 {
     font-size: 10px;
   }
-  .energy .text p{
+  .energy .text p {
     padding-left: 0px;
   }
-  .energy .cards{
+  .energy .cards {
     padding-left: 10px;
   }
-  .energy .cards p{
+  .energy .cards p {
     padding-left: 0px;
   }
-  .energy .cards .r2cards{
+  .energy .cards .r2cards {
     padding-left: 50px;
   }
-  .energy .cards  .card{
+  .energy .cards .card {
     width: 90%;
     height: auto;
   }
-  .value .valuecards .cards p{
+  .value .valuecards .cards p {
     font-size: 8px;
   }
   .value .valuecards .cards {
@@ -706,40 +707,40 @@ body {
     padding: 10px 10px;
     gap: 10px;
   }
-  .woc .text{
+  .woc .text {
     margin: auto;
   }
-  .woc .text p{
+  .woc .text p {
     padding-left: 0px;
   }
-  .woc .slider{
+  .woc .slider {
     width: 100%;
     height: auto;
     margin-left: 0px;
   }
-  .footer{
+  .footer {
     height: auto;
     padding: 15px 15px;
   }
-  .footer img{
+  .footer img {
     width: 100px;
     height: 20px;
   }
-  .footer .firstsecfooter{
+  .footer .firstsecfooter {
     padding-left: 120px;
   }
-  .footer .linksfooter a{
+  .footer .linksfooter a {
     font-weight: 200;
     font-size: 10px;
   }
-  .footer .linksfooter{
+  .footer .linksfooter {
     gap: 10px;
   }
-  .footer .input{
+  .footer .input {
     margin-left: 0px;
     margin-top: 0;
   }
-  .footer .input h4{
+  .footer .input h4 {
     font-weight: 100;
     font-size: 12px;
   }
@@ -749,25 +750,25 @@ body {
   .footer .submit {
     padding: 10px 25px;
   }
-  .footer .container3{
+  .footer .container3 {
     margin-left: 5px;
     margin-right: 5px;
   }
-  .footer .secondsecfooter p{
+  .footer .secondsecfooter p {
     font-weight: 200;
     font-size: 10px;
   }
-  .footer .secondsecfooter .linksfooter p{
+  .footer .secondsecfooter .linksfooter p {
     padding-left: 0px;
     padding-top: 0px;
   }
-  .footer .secondsecfooter h5{
+  .footer .secondsecfooter h5 {
     font-weight: 200;
     font-size: 10px;
   }
 }
 @media (max-width: 992px) {
-  .nav img{
+  .nav img {
     width: 100px;
     height: 30px;
     margin-left: 70px;
@@ -776,7 +777,8 @@ body {
     padding-left: 35px;
     gap: 7px;
   }
-  .nav .call span , p{
+  .nav .call span,
+  p {
     padding-left: 60px;
     font-size: 18px;
   }
@@ -791,7 +793,7 @@ body {
     font-size: 20px;
     padding-left: 0px;
   }
-  .head1 p{
+  .head1 p {
     padding-left: 0px;
   }
   .head1 .images {
@@ -803,7 +805,7 @@ body {
     width: 200px;
     height: 150px;
   }
-  .backImg3 p{ 
+  .backImg3 p {
     font-size: 15px;
   }
   .backImg2 div {
@@ -821,29 +823,30 @@ body {
     padding: 10px 10px;
     gap: 10px;
   }
-  .main .divs p , i {
+  .main .divs p,
+  i {
     font-size: 15px;
   }
-  .main .divs .btn4{
+  .main .divs .btn4 {
     font-size: 15px;
   }
-  .energy .text p{
+  .energy .text p {
     padding-left: 0px;
   }
-  .energy .cards{
+  .energy .cards {
     padding-left: 10px;
   }
-  .energy .cards p{
+  .energy .cards p {
     padding-left: 0px;
   }
-  .energy .cards .r2cards{
+  .energy .cards .r2cards {
     padding-left: 50px;
   }
-  .energy .cards  .card{
+  .energy .cards .card {
     width: 90%;
     height: auto;
   }
-  .value .valuecards .cards p{
+  .value .valuecards .cards p {
     font-size: 15px;
   }
   .value .valuecards .cards {
@@ -855,40 +858,40 @@ body {
     padding: 10px 10px;
     gap: 10px;
   }
-  .woc .text{
+  .woc .text {
     margin: auto;
   }
-  .woc .text p{
+  .woc .text p {
     padding-left: 0px;
   }
-  .woc .slider{
+  .woc .slider {
     width: 100%;
     height: auto;
     margin-left: 0px;
   }
-  .footer{
+  .footer {
     height: auto;
     padding: 20px 20px;
   }
-  .footer img{
+  .footer img {
     width: 150px;
     height: 30px;
   }
-  .footer .firstsecfooter{
+  .footer .firstsecfooter {
     padding-left: 120px;
   }
-  .footer .linksfooter a{
+  .footer .linksfooter a {
     font-weight: 200;
     font-size: 15px;
   }
-  .footer .linksfooter{
+  .footer .linksfooter {
     gap: 10px;
   }
-  .footer .input{
+  .footer .input {
     margin-left: 70px;
     margin-top: 0;
   }
-  .footer .input h4{
+  .footer .input h4 {
     font-weight: 100;
     font-size: 15px;
   }
@@ -898,28 +901,28 @@ body {
   .footer .submit {
     padding: 10px 25px;
   }
-  .footer .container3{
+  .footer .container3 {
     margin-left: 5px;
     margin-right: 5px;
   }
-  .footer .secondsecfooter p{
+  .footer .secondsecfooter p {
     font-weight: 200;
     font-size: 15px;
   }
-  .footer .secondsecfooter .linksfooter p{
+  .footer .secondsecfooter .linksfooter p {
     padding-left: 0px;
     padding-top: 0px;
   }
-  .footer .secondsecfooter h5{
+  .footer .secondsecfooter h5 {
     font-weight: 200;
     font-size: 15px;
   }
 }
 @media (max-width: 1200px) {
-  .backImg div{
+  .backImg div {
     padding-left: 80px;
   }
-  .head1{
+  .head1 {
     display: flex;
   }
   .head1 .text h2 {
@@ -933,43 +936,43 @@ body {
     padding-left: 50px;
     margin-left: 550px;
   }
-  .backImg2 div{
+  .backImg2 div {
     padding-left: 85px;
     padding-top: 20%;
   }
-  .energy .cards{
+  .energy .cards {
     padding-left: 50px;
   }
-  .energy .text{
+  .energy .text {
     padding-left: 50px;
   }
-  .value .p1{
+  .value .p1 {
     font-size: 25px;
   }
-  .woc .text{
+  .woc .text {
     padding-left: 80px;
   }
-  .woc .slider{
+  .woc .slider {
     width: 50%;
     height: auto;
     margin-left: 20px;
   }
-  .footer{
+  .footer {
     height: auto;
   }
-  .footer .input{
+  .footer .input {
     margin-left: 250px;
   }
-  .footer .container3{
+  .footer .container3 {
     margin-left: 5px;
     margin-right: 5px;
   }
-  .footer .secondsecfooter .linksfooter p{
+  .footer .secondsecfooter .linksfooter p {
     padding-left: 0px;
     padding-top: 0px;
     font-size: 16px;
   }
-  .footer .secondsecfooter h5{
+  .footer .secondsecfooter h5 {
     font-weight: 200;
     font-size: 15px;
   }
