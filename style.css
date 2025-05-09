@@ -39,7 +39,7 @@ body {
 .backImg {
   width: 100%;
   height: 650px;
-  background-image: url("images/solar-panels-meadow\ 1.png");
+  background-image: url("images/header1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -139,7 +139,7 @@ body {
 .backImg2 {
   width: 100%;
   height: 650px;
-  background-image: url("/images//8116\ 1.png");
+  background-image: url("images/header2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -233,7 +233,7 @@ body {
 .backImg3 {
   width: 100%;
   height: 505px;
-  background-image: url("/images/8116\ 1\ \(1\).png");
+  background-image: url("images/header3.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
