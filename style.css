@@ -466,6 +466,7 @@ body {
   background-color: #283646;
   height: 250px;
   padding: 30px 30px;
+  justify-content: space-between;
 }
 .footer img {
   mix-blend-mode: luminosity;
